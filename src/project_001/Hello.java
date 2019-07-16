@@ -10,7 +10,7 @@ public class Hello {
     }
     public String pp(){
         System.out.println("123123141");
-        return "12314141pp";
+        return "12314141p";
     }
 
     public static void main (String args[]){
