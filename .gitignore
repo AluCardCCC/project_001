@@ -7,7 +7,7 @@ target/
 *.swp
 bin/
 .DS_Store
-.idea
+.idea/
 *.iml
 error.log*
 classes/
