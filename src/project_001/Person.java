@@ -17,5 +17,8 @@ public class Person {
         System.out.println("this person name is "+name);
 
     }
+    public void display(){
+        System.out.println("name is"+name);
+    }
 
 }
