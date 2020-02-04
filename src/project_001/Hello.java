@@ -20,5 +20,12 @@ public class Hello {
         a.getClass();
         aa=a.pp();
         System.out.println(aa);
+        int x,y;
+        x=10;
+        y=(x==10)?1:0;
+        System.out.println("value x:"+ x);
+        System.out.println("value y:" + y);
+
+
     }
 }
