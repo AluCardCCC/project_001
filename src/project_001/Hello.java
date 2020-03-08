@@ -36,5 +36,10 @@ public class Hello {
         System.out.println(ch);
         System.out.println(ch.getClass().getName());
         System.out.println(GetType(ch2));
+
+        int aaa [] = {1,2,3,4};
+        System.out.println(aaa);
+        for(int i=0;i<aaa.length;i++)
+            {System.out.println(aaa[i]);}
     }
 }
